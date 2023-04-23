@@ -1,5 +1,5 @@
                                                                Hi 👋 there, I'm Sevil Mirzayeva  
-                                     I am engaged in programming and I love this job. The main programming slice is C# and Javascript.
+                            I am engaged in programming and I love this job. The main programming slice is C# and Javascript.
 ## 🌐 Socials:
 LinkedIn: Sevil Mirzayeva
 
