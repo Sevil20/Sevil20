@@ -1,4 +1,5 @@
-
+                                                               Hi 👋 there, I'm Sevil Mirzayeva
+                                                               
 ## 🌐 Socials:
 LinkedIn: Sevil Mirzayeva
 
